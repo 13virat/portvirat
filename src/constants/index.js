@@ -197,45 +197,47 @@ export const socialLinks = [
 
 export const projects = [
     {
+        iconUrl: summiz,
+        theme: 'btn-back-yellow',
+        name: 'SkillBridge',
+        description: 'SkillBridge is a platform that connects people to exchange skills and knowledge, enabling collaborative learning and growth through smart matchmaking and real-time tools.',
+        link: 'https://github.com/13virat/skillbridge.git',
+    },
+    {
+        iconUrl: estate,
+        theme: 'btn-back-black',
+        name: 'StoryTeller',
+        description: 'StoryTeller is a web app where users can create, share, and explore stories. It features a user-friendly interface for writers and readers, with options to personalize profiles, comment, and interact with the community.',
+        link: 'https://github.com/13virat/StoryMode.git',
+    },
+    {
         iconUrl: pricewise,
         theme: 'btn-back-red',
-        name: 'Amazon Price Tracker',
-        description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-        link: 'https://github.com/adrianhajdin/pricewise',
+        name: 'ZeniCraze',
+        description: 'Zenicraze is an online store offering unique, handmade items from resin crafts to custom cakes and artisan jewelry. Find something special for every occasion.',
+        link: 'https://github.com/13virat/zenicraze.git',
     },
     {
         iconUrl: threads,
         theme: 'btn-back-green',
-        name: 'Full Stack Threads Clone',
-        description: 'Created a full-stack replica of the popular discussion platform "Threads," enabling users to post and engage in threaded conversations.',
-        link: 'https://github.com/adrianhajdin/threads',
+        name: 'Starlit Financial',
+        description: 'Starlit Financial is a sleek banking app offering seamless account management and secure transactions. Simplify your finances with real-time updates and intuitive features.',
+        link: 'https://github.com/13virat/banking_app.git',
     },
     {
         iconUrl: car,
         theme: 'btn-back-blue',
-        name: 'Car Finding App',
-        description: 'Designed and built a mobile app for finding and comparing cars on the market, streamlining the car-buying process.',
+        name: 'Shadow Samurai',
+        description: 'Bounce your way through vibrant levels, dodging obstacles and aiming for high scores in this fast-paced arcade game.',
         link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
     },
     {
         iconUrl: snapgram,
         theme: 'btn-back-pink',
-        name: 'Full Stack Instagram Clone',
-        description: 'Built a complete clone of Instagram, allowing users to share photos and connect with friends in a familiar social media environment.',
-        link: 'https://github.com/adrianhajdin/social_media_app',
+        name: 'Full Stack Netflix Clone',
+        description: 'A Netflix clone is a streaming platform that mimics Netflix, offering movies and TV shows with user authentication and personalized recommendations.',
+        link: 'https://github.com/13virat/netflix_clone.git',
     },
-    {
-        iconUrl: estate,
-        theme: 'btn-back-black',
-        name: 'Real-Estate Application',
-        description: 'Developed a web application for real estate listings, facilitating property searches and connecting buyers with sellers.',
-        link: 'https://github.com/adrianhajdin/projects_realestate',
-    },
-    {
-        iconUrl: summiz,
-        theme: 'btn-back-yellow',
-        name: 'AI Summarizer Application',
-        description: 'App that leverages AI to automatically generate concise & informative summaries from lengthy text content, or blogs.',
-        link: 'https://github.com/adrianhajdin/project_ai_summarizer',
-    }
+    
+    
 ];
