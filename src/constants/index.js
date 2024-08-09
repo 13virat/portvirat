@@ -229,7 +229,7 @@ export const projects = [
         theme: 'btn-back-blue',
         name: 'Shadow Samurai',
         description: 'Bounce your way through vibrant levels, dodging obstacles and aiming for high scores in this fast-paced arcade game.',
-        link: 'https://github.com/adrianhajdin/project_next13_car_showcase',
+        link: 'https://github.com/13virat/Shadow-sumurai.git',
     },
     {
         iconUrl: snapgram,
